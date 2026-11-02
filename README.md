@@ -1,8 +1,18 @@
-# ComfyUI Prompt Archive DOCX
+![vallpaper.store PROMPT ARCHIVE: SAVE THE RUN. KEEP THE PROCESS.](docs/brand/header.svg)
+
+# Prompt Archive for ComfyUI
 
 Save an image preview, prompts and generation settings in a compact Word document, then browse the archive and restore mapped settings in the currently open ComfyUI workflow.
 
 The package adds one output node, **Prompt Archive DOCX**, and a browser extension. Reload changes existing widgets after a comparison and confirmation. It does not load another workflow or create duplicate nodes.
+
+## See it in use
+
+[![Watch the Prompt Archive demonstration reel: archive gallery and saved generation settings](docs/screenshots/archive-gallery.webp)](https://dharanis-portfolio-lilac.vercel.app/hire/prompt-archive-demo.mp4)
+
+**[▶ Watch the narrated demonstration reel](https://dharanis-portfolio-lilac.vercel.app/hire/prompt-archive-demo.mp4)** · [Project and demo](https://dharanis-portfolio-lilac.vercel.app/portfolio/prompt-archive?category=ai-workflows) · [Installation](#installation) · [Restore settings](#how-workflow-settings-are-restored)
+
+The reel walks through the tool in use. The screenshots below provide a closer look at the node, gallery and reload comparison.
 
 ## Features
 
@@ -177,6 +187,18 @@ verification results and any problems or unsupported mappings.
 - This release does not claim universal ComfyUI/frontend compatibility or Linux/macOS desktop integration.
 
 For reproducible checks and the verified environment, see [Testing](docs/TESTING.md).
+
+## More from vallpaper.store
+
+Tools built around AI visual production by [Dharanidharan K](https://github.com/dharaniVibeDev).
+
+| Project | What it covers |
+| --- | --- |
+| [Prompt Archive](https://github.com/dharaniVibeDev/comfyui-prompt-archive-docx) | Save previews, prompts and settings; review and restore mapped values. |
+| [Voice](https://github.com/dharaniVibeDev/ComfyUI-vallpaper-voice) | Direct dialogue, choose alternate takes and apply audio effects. |
+| [Hardware + Timer](https://github.com/dharaniVibeDev/ComfyUI-vallpaper-hardware) | Monitor hardware, time generations and receive completion alerts. |
+
+[Explore the creative portfolio](https://dharanis-portfolio-lilac.vercel.app) · [Watch the Prompt Archive demo](https://dharanis-portfolio-lilac.vercel.app/hire/prompt-archive-demo.mp4) · [He Heard You: production case study](https://dharanis-portfolio-lilac.vercel.app/work/he-heard-you-case-study.mp4)
 
 ## License
 
