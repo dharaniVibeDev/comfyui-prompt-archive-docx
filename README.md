@@ -1,4 +1,4 @@
-![vallpaper.store PROMPT ARCHIVE: SAVE THE RUN. KEEP THE PROCESS.](docs/brand/header.svg)
+![vallpaper.store PROMPT ARCHIVE — three Krea 2 visual studies: a rainy racing scene, a stilt house and a helicopter rescue](docs/brand/header.jpg)
 
 # Prompt Archive for ComfyUI
 

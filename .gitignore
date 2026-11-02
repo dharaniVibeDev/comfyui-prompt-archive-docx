@@ -36,3 +36,6 @@ playwright-report/
 !docs/screenshots/*.webp
 .DS_Store
 Thumbs.db
+
+# Branded README artwork
+!docs/brand/header.jpg
